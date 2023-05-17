@@ -54,7 +54,7 @@ import Gbupdate from "./component/Guestbook/Gbupdate";
 
 import ReactPlayer from "react-player/youtube";
 import Bgm from "./component/Bgm/bgm";
-import Bgmadd from "./component/Bgm/bgmadd";
+import Bgmadd from "./component/Bgm/Bgmadd";
 import axios from "axios";
 
 import FileMain from "./component/My/FileMain";
